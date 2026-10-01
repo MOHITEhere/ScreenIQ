@@ -1,0 +1,55 @@
+About the Role
+
+We are looking for a passionate and skilled **AI Engineer** with **2+ years of hands-on experience** in building, deploying, and optimizing AI/ML solutions. As an AI Engineer, you will be responsible for designing intelligent systems, developing machine learning models, and collaborating with cross-functional teams to deliver AI-powered products.
+This is an exciting opportunity for someone who thrives in a fast-paced environment and wants to be at the forefront of AI innovation.
+
+
+Key Responsibilities
+
+* Design, build, and deploy AI/ML models for real-world applications (e.g., classification, recommendation, NLP, computer vision).
+* Develop, train, test, and optimize deep learning and traditional machine learning models.
+* Preprocess and clean large datasets for training and inference using Python and relevant libraries.
+* Work with AI frameworks and tools such as TensorFlow, PyTorch, Scikit-learn, and Hugging Face Transformers.
+* Integrate ML models into production systems using APIs or containerized solutions (e.g., Docker, FastAPI, Flask).
+* Conduct experiments and A/B testing to evaluate model performance and effectiveness.
+* Monitor model drift and performance in production; apply retraining strategies when needed.
+* Collaborate with Data Scientists, Software Engineers, Product Managers, and other stakeholders.
+* Stay updated with the latest AI/ML research and industry trends.
+* Prepare technical documentation, model reports, and maintain reproducible codebases.
+
+---
+
+Required Skills & Qualifications
+
+* Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+* **2+ years of experience** as an AI Engineer, ML Engineer, or similar role.
+* Strong proficiency in Python and experience with libraries like NumPy, Pandas, Matplotlib, etc.
+* Hands-on experience with ML frameworks such as **TensorFlow**, **PyTorch**, **Keras**, **Scikit-learn**.
+* Practical knowledge of **NLP**, **Computer Vision**, or **Generative AI** is a strong plus.
+* Experience with **LLMs (e.g., GPT, LLaMA, Mistral)** and fine-tuning techniques is desirable.
+* Understanding of data preprocessing, feature engineering, and model evaluation techniques.
+* Familiarity with deployment tools like **Docker**, **Kubernetes**, or **MLflow**.
+* Experience using **cloud platforms** such as AWS, Azure, or GCP for model training and deployment.
+* Ability to write clean, efficient, and well-documented code.
+* Strong analytical and problem-solving skills.
+
+---
+
+Preferred Skills (Good to Have)
+
+* Experience with **Langchain**, **RAG**, or building multi-agent AI workflows.
+* Familiarity with **ChromaDB**, **Pinecone**, or other vector databases.
+* Understanding of **MLOps** practices.
+* Exposure to CI/CD pipelines and DevOps tools.
+* Experience working in Agile/Scrum environments.
+* Publications, GitHub projects, or Kaggle competitions are a plus.
+
+
+What We Offer
+
+* Competitive salary and performance-based bonuses.
+* Flexible working hours and hybrid/remote options.
+* Learning & development budget for AI/ML certifications, courses, and conferences.
+* Collaborative and inclusive work environment.
+* Health insurance and other employee benefits.
+* Opportunity to work on cutting-edge AI projects and grow with the organization.

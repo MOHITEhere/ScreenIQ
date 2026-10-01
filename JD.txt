@@ -1,0 +1,83 @@
+SAINT-GOBAIN INDEC 
+Global Competency Centre 
+ 
+About Saint-Gobain INDEC 
+Saint-Gobain INDEC (International IT Delivery Centre) is the global technology hub for Saint-Gobain - one of the world's 
+leading sustainable construction and building materials companies, operating for over 360 years. Based in Mumbai, INDEC 
+powers IT solutions for Saint-Gobain businesses across 75+ countries, covering enterprise applications, digital 
+transformation, data & analytics, cybersecurity and infrastructure.  
+Joining INDEC means working on real, global-scale technology challenges with a structured career path, mentorship, and 
+access to a global professional network. 
+ 
+Grade M11 
+Designation Associate Software Engineer 
+Location Mumbai 
+ 
+Role Overview 
+As an Associate Software Engineer, you will work with diverse Saint-Gobain's businesses in 75+ countries. You will 
+contribute to meaningful technology projects supported by a structured L&D programme and mentorship from senior team 
+members. 
+ Your stream allocation will be determined based on business requirements and your academic and technical background.  
+ 
+Business Service Lines 
+Joining stream will be assigned based on business needs. 
+STREAM WHAT YOU WILL WORK ON 
+ERP SAP implementation and support across modules - SD, FICO, SCM, PP, ABAP. Partnering with global 
+business units on ERP transformation. 
+Digital Solutions Application development using modern frameworks. Web, mobile and low-code platforms serving 
+internal and external stakeholders. 
+Infrastructure & Cyber 
+Security 
+IT infrastructure management, cloud operations, network and security. Monitoring, incident response 
+and cybersecurity practices. 
+Digital Quality 
+Assurance 
+Quality assurance across digital products - manual and automation testing, test planning, defect 
+tracking and release validation. 
+Data & Analytics Data engineering, business intelligence and analytics. Building dashboards, data pipelines and 
+supporting data-driven decision making. 
+Enterprise Architecture 
+& Integration 
+System integration, API management and enterprise architecture. Connecting applications and 
+platforms across Saint-Gobain's global landscape. Key Responsibilities 
+Technical Contribution 
+• Contribute to the design, development and delivery of technology solutions across your assigned stream.  
+• Write clean, maintainable and well-documented code or configurations.  
+• Support build, test and deployment activities as part of agile delivery teams.  
+• Assist in analyzing requirements and translating them into technical tasks.  
+Collaboration & Communication 
+• Work closely with senior engineers, architects and business analysts to understand project objectives.  
+• Participate in sprint ceremonies -standups, planning, reviews and retrospectives.  
+• Communicate progress, blockers and learnings to the team proactively.  
+Learning & Development 
+• Complete the structured L&D programme in your allocated stream  
+• Seeking mentorship from senior team members and apply learning to live project work.  
+• Stay updated on technology trends relevant to your stream.  
+Documentation & Quality 
+• Document work outputs include code, configurations, test cases and technical notes.  
+• Follow quality standards, coding guidelines and review processes set by the team.  
+• Contribute to knowledge-sharing within the team. 
+Qualification 
+• B.Tech / BE in Computer Science, Information Technology, Electronics & Communication, or a related engineering 
+discipline. 
+• MCA (Master of Computer Applications). 
+• Consistent academic record - meeting organization eligibility criteria  
+Functional & Technical Competencies 
+COMPETENCY WHAT WE LOOK FOR 
+Programming 
+Fundamentals 
+Proficiency in at least one programming language -Java, Python, C++, JavaScript or similar. Ability to 
+write logical, readable code. 
+Problem Solving Structured approach to breaking down technical problems. Comfortable with data structures and 
+algorithm concepts. 
+Database Basics Understanding of relational databases and basic SQL - querying, joins and data retrieval. 
+Technology Awareness Familiarity with concepts relevant to your area - cloud, ERP, analytics, security or integration — 
+through coursework or projects. 
+Communication Clear written and verbal communication. Ability to explain technical work to team members. 
+ 
+Behavioral Competencies 
+• Act As an Entrepreneur -Takes complete accountability to drive execution with a strong passion for delivering results.  
+• Innovate - Constantly looking for ways to innovate and envision new possibilities to enable continuous growth.  
+• Cultivating Customer Intimacy — Puts stakeholders at the core of decision making to build and nurture relationships.  
+• Being Agile - Displays willingness to win and is passionate about adding value to the organisation's success.  
+• Build An Open & Engaging Culture — Works collaboratively with others towards a shared organisational vision. 
